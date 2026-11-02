@@ -1,4 +1,12 @@
 package org.example;
 
 public class Aula04_While {
+    public static void main (String[] args){
+        int numero = 1;
+
+        while (numero <= 5){
+            System.out.println(numero);
+            numero++;
+        }
+    }
 }

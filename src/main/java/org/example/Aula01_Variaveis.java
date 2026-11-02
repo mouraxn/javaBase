@@ -5,7 +5,10 @@ public class Aula01_Variaveis {
         String nome = "Alexandre";
         int idade = 20;
         String cidade = "Itamaraju";
+        double salario = 4000.43;
 
+
+        System.out.println("salario: "+salario);
         System.out.println("Nome: " + nome);
         System.out.println("Idade: " + idade);
         System.out.println("Cidade: " + cidade);
