@@ -1,20 +1,22 @@
 package org.example;
 
 public class Aula01Exercicio {
-    public static void main(String[] args) {
+    public static void main (String[] args){
 
-        String nome = " Alexandre ";
-        String sobrenome = " Silva Moura";
-        int idade = 20;
-        String cidade = " Itamaraju ";
-        boolean gostaDeJava = true;
-        double altura = 1.90;
+        int idade = 20 ;
+        double salario = 2500.00;
+        char inicial = 'A';
+        boolean ativo = true ;
+        String nome = "Alexandre ";
 
-        System.out.println("Nome:" + nome + sobrenome);
-        System.out.println("Idade:"+ idade + " Anos");
-        System.out.println("Cidade:"+ cidade);
-        System.out.println("GostaDeJava:" + gostaDeJava + ".");
-        System.out.println("Altura:" + altura);
+        System.out.println("Nome: "+ nome);
+        System.out.println("Idade: "+idade);
+        System.out.println("Salario: "+salario);
+        System.out.println("Inicial:"+ inicial);
+        System.out.println("Ativo: "+ ativo);
+
+
+
 
     }
 }
