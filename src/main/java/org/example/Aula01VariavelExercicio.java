@@ -1,6 +1,6 @@
 package org.example;
 
-public class Aula01Exercicio {
+public class Aula01VariavelExercicio {
     public static void main (String[] args){
 
         int idade = 20 ;
