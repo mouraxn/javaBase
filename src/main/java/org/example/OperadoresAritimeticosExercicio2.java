@@ -12,6 +12,6 @@ public class OperadoresAritimeticosExercicio2 {
         System.out.println("Divisao: "+(num1 / num2));
         System.out.println("Resto: "+ (num1 % num2));
 
-
+        
     }
 }

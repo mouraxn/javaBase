@@ -7,6 +7,6 @@ public class OperadoresLogicos {
 
         System.out.println("idade >= 18 && estudante: "+ (idade >= 18 && estudadante));
         System.out.println("idade < 18 || estudantes: "+ (idade <18 ||  estudadante));
-        System.out.println("!(idade >= 18: "+ (idade >= 18 ));
+        System.out.println("!(idade >= 18: "+(idade >= 18 ));
     }
 }
